@@ -100,7 +100,7 @@ void updateControl(){
     wave = waveform;
   }
 
-  //VCO: 光センサにまつわる処理
+  //VCO: 光センサに関係する処理
   if(vibOn == true){ //光センサONからセンサの値を周波数に反映
     if(vib_mode == false){
       vib0 = vib;
