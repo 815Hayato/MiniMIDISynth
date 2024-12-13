@@ -1,4 +1,4 @@
-# MiniMIDISynth
+# MiniMIDISynth_v0
 ![MiniMIDISynth_v0](https://github.com/user-attachments/assets/ca41d628-a313-4b8b-9e27-aae0c005a708)
 
 ## 使用技術
