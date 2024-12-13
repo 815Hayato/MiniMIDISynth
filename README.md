@@ -31,4 +31,4 @@ MIDIで動く小型シンセサイザー
 1. 出力をステレオミニジャックにする
 2. 基板化+小箱に収納して小型かつ持ち運べるようにする
 3. モジュレーションやADSRなどの機能を追加する
-4. 以前作成したElectronicSho_v0(https://github.com/815Hayato/ElectronicSho_v0)をMIDIコントローラに改造した上で連動させる
+4. 以前作成したElectronicSho_v0(https://github.com/815Hayato/ElectronicSho_v0 )をMIDIコントローラに改造した上で連動させる
