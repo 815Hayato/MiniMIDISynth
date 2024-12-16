@@ -39,4 +39,5 @@ MIDIで動く小型シンセサイザー
 ## 参照
 1. Mozzi Documentation: https://sensorium.github.io/Mozzi/doc/html/
 2. セリアの木箱とArduinoを使ってMIDIで操作できるアナログモデリングシンセを作ってみる: https://desktopmusik.com/gadget/arduino-synth
-
+3. MIDI1.0 規格書: https://amei.or.jp/midistandardcommittee/MIDI1.0.pdf
+4. Arduino MINI Library: https://github.com/FortySevenEffects/arduino_midi_library
